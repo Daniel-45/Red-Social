@@ -28,7 +28,7 @@ Ejecutar `ng generate component component-name` para generar un nuevo componente
 
 ## Build
 
-Ejecutar `ng build` para construir el proyecto. Los artefactos de construcción se almacenarán en el directorio `dist/`. Usa `--prod` para una construcción de producción..
+Ejecutar `ng build` para construir el proyecto. Los artefactos de construcción se almacenarán en el directorio `dist/`. Usar `--prod` para producción.
 
 ## Ayuda adicional
 
