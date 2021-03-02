@@ -1,6 +1,6 @@
 # Social Live
 
-Aplicación creada con JavaScript, Angular y NodeJS.
+Aplicación creada con MongoDB, Express.js, Angular y Node.js.
 
 ## Backend Node.js
 
